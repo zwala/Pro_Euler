@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  9 16:38:57 2019
 
-@author: zwalaneelam
-"""
 """
 #WarmUp-1
 def sleep_in(weekday, vacation):
